@@ -1,0 +1,21 @@
+body {
+color: green;
+font-weight: bolder;
+}
+
+h1, h2 {
+text-decoration: underline overline;
+}
+
+
+.blue {
+color: blue;
+font-size: 25px;
+font-family: Helvetica;
+}
+p.red{
+color: red;
+font-size: 25px;
+font-family: Helvetica;
+}
+

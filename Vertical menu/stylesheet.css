@@ -1,0 +1,22 @@
+ul {
+list-style: none;
+padding: 0px;
+magin: 0;
+}
+
+ul li a{
+text-decoration: none;
+font-family: serif, Georgia, "Times New Roman", Times;
+background-color: #5c755e;
+color: white;
+display: block;
+width: 80px;
+margin: 5px;
+padding: 10px;
+border: 1px solid red;
+border-radius: 5px;
+text-align: center;
+height: 25px;
+line-height: 25px;
+
+}

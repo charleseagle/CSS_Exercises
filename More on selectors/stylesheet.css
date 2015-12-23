@@ -1,0 +1,47 @@
+/* the type selectors - select by element by type ====*/
+h1 {
+color: blue;
+}
+
+/* the ID selector - select element with # ====*/
+#para1 {
+color: green;
+}
+
+/* the class selector - select element with . ====*/
+.para {
+color: orange;
+}
+
+/* Combine selectors - ====*/
+h2, h3, #para1 {
+text-decoration: underline;
+}
+
+/* the secendant selector - select element inside another element ====*/
+div p {
+font-style: italic;
+color: red;
+}
+
+/* the child selector - selects DIRECT CHILD  element ====*/
+blockquote.text>b {
+color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

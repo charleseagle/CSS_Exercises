@@ -1,0 +1,30 @@
+body {
+color: green;
+font-family: Verdana, Arial, Geneva, Arial slack;
+font-weight: normal;
+background-color: #ffcf79;
+font-size: 25px;
+}
+
+h1 {
+text-decoration: underline;
+font-size: 150%;
+}
+h2 {
+text-decoration: underline;
+font-size: 1.2em;
+}
+p.para1 {
+color: blue;
+font-style: oblique;
+}
+
+p.para2 {
+color: red;
+
+}
+
+p.para3 {
+color: red;
+font-style: italic;
+}
